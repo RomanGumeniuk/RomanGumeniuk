@@ -1,4 +1,4 @@
-# Hi 👋, I'm Roman Gumeniuk
+# Hi 👋, I'm Roman
 
 ### Frontend developer
 
