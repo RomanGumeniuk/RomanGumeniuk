@@ -3,7 +3,10 @@
 ### Frontend developer
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://github.com/romangumeniuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="romangumeniuk" height="30" width="40" /></a><a href="https://linkedin.com/in/romangumeniuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romangumeniuk" height="30" width="40" /></a><a href="https://discord.gg/fromanek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fromanek" height="30" width="40" /></a></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romangumeniuk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romangumeniuk)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fromanek)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
